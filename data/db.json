@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum...",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Amazon Simple Queue Service (SQS) is a fully managed message queuing service provided by Amazon Web Services (AWS). It allows decoupling the components of a cloud application so they can run independently, increasing the overall fault tolerance and scalability of the application. SQS acts as a buffer between the application components, temporarily storing messages as they travel between them.",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "new bllgogogo",
+      "body": "ajsdasldf;alsdjf;lasjdf",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "new bllgogogo",
+      "body": "ajsdasldf;alsdjf;lasjdf",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "this ",
+      "body": "is that tthing",
+      "author": "yoshi",
+      "id": 10
+    },
+    {
+      "title": "so like what is this ",
+      "body": "I know what it is ",
+      "author": "mario",
+      "id": 11
+    },
+    {
+      "title": "Google Maps API",
+      "body": "google maps is very impressive",
+      "author": "yoshi",
+      "id": 12
+    },
+    {
+      "title": "TomTom API",
+      "body": "Tomtom API is like google maps API ",
+      "author": "mario",
+      "id": 13
+    }
+  ]
+}
